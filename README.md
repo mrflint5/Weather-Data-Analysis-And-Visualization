@@ -1,4 +1,4 @@
-# 🌦️ Weather Data Analysis & Visualization
+# 🌦️ Weather Data Analysis & Visualization.
 
 This project presents a detailed analysis and visualization of weather patterns using historical data in Excel format. Built using Python and Jupyter Notebook, it showcases trends in temperature, rainfall, and seasonal fluctuations.
 
